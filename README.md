@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+I’m currently working on a group project about a family friednly paddle boarding game, a solo adventure game and a educational game for VR/AR.
+I’m currently learning Unreal engine 5 with using blueprints and using Unity to create VR/AR game.
+I’m looking to collaborate on any type of genre of game and gaining experience from others by working with a team.
+I’m looking for help with better experience of programming 
+- Website- https://charlottesportfolio.mystrikingly.com/
+- How to reach me: charlotterosekeane@gmail.com
+- Pronouns: She/Her
+- Fun fact: I love animals and have a dog and a cat ! They love watching me create or play games in my own time !
 <!--
 **CharlotteKeane18/CharlotteKeane18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
