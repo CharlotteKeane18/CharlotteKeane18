@@ -2,7 +2,7 @@
 I’m currently working on a group project about a family friendly paddle boarding game, a solo adventure game and a educational game for VR/AR.
 I’m currently learning Unreal engine 5 with using blueprints and using Unity to create VR/AR game.
 I’m looking to collaborate on any type of genre of game and gaining experience from others by working with a team.
-I’m looking for help with better experience of programming 
+- Skills- Unity, unreal engine 5, Adobe suite, 3ds max and blender
 - Website- https://charlottesportfolio.mystrikingly.com/
 - How to reach me: charlotterosekeane@gmail.com
 - Pronouns: She/Her
